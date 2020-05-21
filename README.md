@@ -1,6 +1,6 @@
 # Hola Mundo Deno
 
-simples hola mundo com [deno](deo.land)
+simples hola mundo com [deno](https://deno.land/)
 
 Para instalar o Deno
 
